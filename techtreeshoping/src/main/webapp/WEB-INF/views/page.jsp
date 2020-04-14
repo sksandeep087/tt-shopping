@@ -16,7 +16,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="">
-
+ 
 <title>Online Shopping -${title}</title>
 <script type="text/javascript">
 	window.menu = '${title}';
